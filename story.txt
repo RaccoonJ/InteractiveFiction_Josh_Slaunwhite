@@ -1,0 +1,59 @@
+Tavern Adventure%
+
+You wake up in the tavern, its time to get up.
+$Get up and armour up.&Go back to sleep.
+$2&1%
+
+You put on your plate armour. You finish and decide what to do
+$Go talk to your guildmates & Go for a walk and open the door of the suspected murderer's house.
+$3&8%
+
+Your guildmates ask if you're ready, and if you have a plan. What do you do?
+$Give bounty quest & say no
+$4&5%
+
+Your go off on your quest, heading toward the specified location. But there's a fork in the road. Which way do you go?
+$Left &Right
+$6&7%
+
+Your guild has no quests so you go back up-stairs to sleep.
+$!Game Over%
+
+You make your way to the bounty location, it's a small house
+$Sneak through the window & Kick the door
+$14&8%
+
+You walk down the path an find yourself lost, when suddenly a pack of wolves approaches.
+$Do Nothing &Run
+$15&9%
+
+You kick down the door and the owner is ready with a shotgun. He's not happy.
+$!Game Over%
+
+The wolves are catching up to you
+$Cross the River &Climb a Tree
+$10&10%
+
+you lose your footing and get swept down the river
+$attempt to escape &Ride it out
+$12&13%
+
+You climb a tree, but they're wolves, and they follow you up, killing you
+$!Game Over%
+
+you get to the edge, now tired, but the wolves is waiting
+$!Game Over%
+
+The bear is actually pretty chill and you swim with him
+$!Game Over%
+
+You sneak up behind the target and bring him back to the guild hall, completing your quest.
+$!Game Over%
+
+The wolves catches you, you die
+$!Game Over%
+
+
+
+
+
